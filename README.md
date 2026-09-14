@@ -10,7 +10,7 @@ Some links are available to [related resources](#resources).
 
 Summary:
 
-* Apps/tools: **2207**
+* Apps/tools: **2208**
 * Categories: **87**
 
 # Contents
@@ -45,7 +45,7 @@ Summary:
 * [Markdown](#markdown) (9)
 ## [Development and Programming](#development-and-programming-1)
 * [Editors](#editors) (32)
-* [Git and accessories](#git) (80)
+* [Git and accessories](#git) (81)
 * [Versioning](#versioning) (9)
 * [Programming](#programming) (75)
 * [Program templates and boilerplate](#programming-boilerplate) (13)
@@ -832,6 +832,7 @@ Tools to support and extend the functionalities of the `git` version tracker.
 * [prs](https://github.com/dhth/prs) - Stay updated on PRs without leaving the terminal.
 * [pyautogit](https://github.com/jwlodek/pyautogit) - A TUI for working with git written in python.
 * [rcz](https://github.com/Cassin01/rcz) - A tool to write a commit message based on “Conventional Commits”.
+* [relnote](https://loki-inu.github.io/relnote/) - Offline stdlib Python CLI and GitHub Action for conventional-commit release notes with no API and no config.
 * [repo-verify-utils](https://github.com/jaggzh/repo-verify-utils) - Utility collection to help examine what repositories and scopes yout GitHub identity has access to.
 * [sad](https://github.com/ms-jpq/sad) - CLI search and replace. Show you a nice diff of proposed changes before you commit them.
 * [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages. With emoji support.
